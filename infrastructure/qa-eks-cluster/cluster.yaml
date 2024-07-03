@@ -12,5 +12,5 @@ managedNodeGroups:
     minSize: 2
     maxSize: 3
     volumeSize: 20
-    ssh: # ssh bağlantısı yapmayacağım için allow:false dedim
+    ssh:
       allow: false
